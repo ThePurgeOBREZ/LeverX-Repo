@@ -1,6 +1,6 @@
 Instructions to create .jar file:
   
-  cd/ C:/Users/Asus/IdeaProjects/LeverX-first/src
+  cd C:/Users/Asus/IdeaProjects/LeverX-first/src
   
   javac Main.java
   
