@@ -14,3 +14,6 @@ To run the file:
 
 The result will be:
   Hello, LeverX!
+
+To import a new lib:
+javac -d bin -classpath bin:libs/apache-commons.jar -sourcepath src src/LeverX/Main.java
